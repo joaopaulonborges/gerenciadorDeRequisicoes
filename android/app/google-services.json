@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1084283523843",
+    "firebase_url": "https://gerenciamento-de-requisicoes.firebaseio.com",
+    "project_id": "gerenciamento-de-requisicoes",
+    "storage_bucket": "gerenciamento-de-requisicoes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084283523843:android:bf34cea611fe61dfa4cf36",
+        "android_client_info": {
+          "package_name": "com.jcom.gerenciador_de_requisicao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084283523843-rn2o3kus4p8esks0t339un9vl9rvj1m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItSMjKbQgef9UgN5so0ImsXyiEi1DshA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084283523843-rn2o3kus4p8esks0t339un9vl9rvj1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
