@@ -1,6 +1,6 @@
 # gerenciador_de_requisicao
 
-A new Flutter project.
+Firebase project with bloc.
 
 ## Getting Started
 
